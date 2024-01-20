@@ -1,5 +1,5 @@
 # RFM_Analysis_Online_Retail_II
-In this section will be RFM_Analysis_on_online_reatail_ii_dataset
+In this section will be RFM_Analysis_on_online_retail_ii_dataset
 
 ___________________________________________________________________
 
